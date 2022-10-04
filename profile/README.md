@@ -1,8 +1,8 @@
 <p align="center">
-<img width="120px" src="https://raw.githubusercontent.com/Metallic-Web/.github/main/logo.png">
+<img width="120px" src="https://github.com/Weeb-Network/.github/raw/main/logo.png">
 </p>
 
-<h1 align="center">Metallic</h1>
+<h1 align="center">Weeb Network/Weeb Central</h1>
 
 ### About
 This is the source code for Weeb Central and Weeb Network
