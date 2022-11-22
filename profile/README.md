@@ -6,7 +6,3 @@
 
 ### About
 This is the source code for Weeb Central and Weeb Network
-
-### Developers
-- [MotorTruck1221](https://github.com/motortruck1221) - Owner and Main Developer
-- [Hiro](https://github.com/XxHiroTTVxX) - Owner And Main Developer
