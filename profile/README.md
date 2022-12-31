@@ -1,5 +1,5 @@
 <p align="center">
-<img width="120px" src="![Ruby Network](./ruby.png`)">
+<img width="120px" src="![Ruby Network](https://github.com/Ruby-Network/.github/raw/main/profile/ruby.png)">
 </p>
 
 <h1 align="center">Ruby Network</h1>
