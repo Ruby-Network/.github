@@ -1,5 +1,5 @@
 <p align="center">
-<img width="120px" src="https://user-images.githubusercontent.com/73721704/210157935-6aa8ec46-6fa4-4dd5-956f-6bfe351de42c.png">
+<img width="120px" src="https://github.com/Ruby-Network/.github/assets/73721704/24ea3ca0-488c-4587-b5ed-b5ae45deb1a9">
 </p>
 <p align="center">
 <a href="https://discord.gg/yk33HZSZkU"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
